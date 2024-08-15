@@ -1,0 +1,124 @@
+{
+    "alunos": [
+        {
+            "matricula": 1234,
+            "nome": "jose",
+            "media": 30,
+            "projetos": [
+                {
+                    "titulo": "tcc",
+                    "resumo": "Resumo do tcc do jose"
+                },
+                {
+                    "titulo": "artigo",
+                    "resumo": "Resumo do artigo do jose"
+                }
+            ]
+        },
+        {
+            "matricula": 12345,
+            "nome": "maria",
+            "media": 50,
+            "projetos": [
+                {
+                    "titulo": "tcc",
+                    "resumo": "Resumo do tcc do maria"
+                },
+                {
+                    "titulo": "artigo",
+                    "resumo": "Resumo do artigo do maria"
+                }
+            ]
+        },
+        {
+            "matricula": 123456,
+            "nome": "joao",
+            "media": 60,
+            "projetos": [
+                {
+                    "titulo": "tcc",
+                    "resumo": "Resumo do tcc do joao"
+                },
+                {
+                    "titulo": "artigo",
+                    "resumo": "Resumo do artigo do joao"
+                }
+            ]
+        },
+        {
+            "matricula": 1234567,
+            "nome": "lucas",
+            "media": 70,
+            "projetos": [
+                {
+                    "titulo": "tcc",
+                    "resumo": "Resumo do tcc do lucas"
+                },
+                {
+                    "titulo": "artigo",
+                    "resumo": "Resumo do artigo do lucas"
+                }
+            ]
+        },
+        {
+            "matricula": 12345678,
+            "nome": "Maicon",
+            "media": 45,
+            "projetos": [
+                {
+                    "titulo": "tcc",
+                    "resumo": "Resumo do tcc do Maicon"
+                },
+                {
+                    "titulo": "artigo",
+                    "resumo": "Resumo do artigo do Maicon"
+                }
+            ]
+        },
+        {
+            "matricula": 123,
+            "nome": "marcos",
+            "media": 70,
+            "projetos": [
+                {
+                    "titulo": "tcc",
+                    "resumo": "Resumo do tcc do marcos"
+                },
+                {
+                    "titulo": "artigo",
+                    "resumo": "Resumo do artigo do marcos"
+                }
+            ]
+        },
+        {
+            "matricula": 12,
+            "nome": "Ramon",
+            "media": 20,
+            "projetos": [
+                {
+                    "titulo": "tcc",
+                    "resumo": "Resumo do tcc do Ramon"
+                },
+                {
+                    "titulo": "artigo",
+                    "resumo": "Resumo do artigo do Ramon"
+                }
+            ]
+        },
+        {
+            "matricula": 1,
+            "nome": "Luis",
+            "media": 25,
+            "projetos": [
+                {
+                    "titulo": "tcc",
+                    "resumo": "Resumo do tcc do Luis"
+                },
+                {
+                    "titulo": "artigo",
+                    "resumo": "Resumo do artigo do Luis"
+                }
+            ]
+        }
+    ]
+}
